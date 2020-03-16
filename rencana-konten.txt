@@ -5,3 +5,4 @@ RENCANA KONTEN
 -belajar mobile
 -belajar vue
 -belajar react
+-belajar angular
