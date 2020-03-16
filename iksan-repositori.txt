@@ -3,4 +3,4 @@ iksan resolusi
 -belajar web php
 -belajar javascript
 -belajar frontend web
--membuat frontend website
+-belajar mobile
