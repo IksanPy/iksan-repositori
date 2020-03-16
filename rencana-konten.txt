@@ -2,4 +2,7 @@ RENCANA KONTEN
 
 -membuat frontend website
 -membuat dengan css dan js
+-belajar mobile
 -belajar vue
+-belajar react
+-python
